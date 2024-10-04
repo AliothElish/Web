@@ -18,7 +18,11 @@ This course covers **PC page layout, mobile page layout,** and **responsive web 
 1. HTML**5**+CSS**3**
 2. **Flex Layout**
 3. **Comprehensive practice on PC**
-4. **Mobile** layout
+4. **Mobile** layout  
    rem + vw
    - {less}
 5. **Responsive** layout
+
+> - Zero Foundation
+> - 45 hours
+> - Web Development Engineer
