@@ -8,9 +8,9 @@ This course covers **PC page layout**, **mobile page layout**, and **responsive 
 
 ### Old Courses
 
-> HTML4
-> CSS2
-> float
+> HTML4  
+> CSS2  
+> float  
 > H5+C3
 
 ### New Courses
@@ -23,8 +23,8 @@ This course covers **PC page layout**, **mobile page layout**, and **responsive 
    > {less}
 5. **Responsive** layout
 
-> Zero Foundation
-> 45 hours
+> Zero Foundation  
+> 45 hours  
 > Web Development Engineer
 
 ## Highlight 2: Practical teaching
